@@ -13,6 +13,7 @@
         <video src="Video/exo6_boucle.mp4" width=320  height=240">
  
         </video>
+        <a href = "exercice1.php">Exercice 1</a>
         <p id="exercice"> Exercice 1  Exercice 2  Exercice 3</p>
         <br />
         <br /> 

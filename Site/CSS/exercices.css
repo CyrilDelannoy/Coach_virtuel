@@ -4,3 +4,22 @@
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+#video{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#coach{
+    display: block;
+    border-radius:8px;
+    text-align: center;   
+    background-color: rgb(190, 190, 216);
+    margin: 50px;
+    width: 400px;
+    height: 400px;  
+
+}
+
+
