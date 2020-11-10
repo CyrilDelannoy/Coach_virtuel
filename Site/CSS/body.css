@@ -12,9 +12,29 @@
 header{
     background-color: rgb(77, 66, 129) ;
     width: 100%;
+
+}
+
+#links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 #footer p{
     margin: 0px;
+}
+
+#welcome p{
+    margin:0;
+    margin-block-end: 0em;
+    margin-block-start: 0em;
+    
+}
+
+#welcome{
+    margin:0;
+    margin-block-end: 0em;
+    margin-block-start: 0em;
 }
 

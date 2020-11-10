@@ -11,24 +11,9 @@ a:hover{
     font-size: 1.5cm;
     text-align: center;
 }
-#welcome p{
-    margin:0;
-    margin-block-end: 0em;
-    margin-block-start: 0em;
-    
-}
 
-#welcome{
-    margin:0;
-    margin-block-end: 0em;
-    margin-block-start: 0em;
-}
 
-#links{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-}
+
 body{
     margin:0px;
     display: block;

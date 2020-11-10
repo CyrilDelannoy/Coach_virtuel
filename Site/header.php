@@ -6,8 +6,8 @@
         <div id = 'links'>
             
             <a href = "exercices.php">Nos Exercices</a>  
-            <a href = "exercices.php">Vos Resultats</a>
-            <a href = 'index.php?page=createAccount'>Votre compte</a>
+            <a href = "resultat.php">Vos Resultats</a>
+            <a href = 'createAccount.php'>Votre compte</a>
             <p id= 'welcome'>
                 <?php echo("Bienvenue Visiteur") ; ?>
             </p>
