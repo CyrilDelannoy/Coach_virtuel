@@ -15,7 +15,7 @@
         <div id="video">
             <!--//Coach-->
             <div id="coach">
-                <video src="../exo6_boucle.mp4" controls muted width="350px" height="350px">
+                <video src="/Coach_Virtuel/Site/Video/exo6_boucle.mp4" controls muted width="350px" height="350px">
                     Le fichier peut etre lu
                 </video>
             </div>
